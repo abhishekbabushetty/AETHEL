@@ -1,2 +1,6 @@
-# AETHEL
-File parsing platform 
+A - All-modality (Universal Ingestion)
+E - Embeddings (Long-term Memory)
+T - Traceable (Detail-Preserving / No loss)
+H - Hierarchical (Micro, Meso, Macro levels)
+E - Extensible (Modular adapters)
+L - Logic (RAG Reasoning & Validation)
