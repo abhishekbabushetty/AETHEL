@@ -1,0 +1,32 @@
+# --- Git ---
+.git/
+.gitignore
+
+# --- Local Data (Mounted at runtime) ---
+input/
+results/
+logs/
+qdrant_data/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# --- Docker ---
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# --- Documentation ---
+# Keep README, but ignore large docs if present
+docs/site/
+
+# --- IDE ---
+.vscode/
+.idea/
