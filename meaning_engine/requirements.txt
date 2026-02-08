@@ -1,0 +1,16 @@
+streamlit>=1.28.0
+qdrant-client>=1.6.0
+sentence-transformers>=2.2.2
+torch>=2.0.0
+pypdf>=3.17.0
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+pydantic>=2.4.0
+pydantic-settings>=2.0.0
+PyYAML>=6.0
+loguru>=0.7.2
+python-multipart>=0.0.6
+python-magic>=0.4.27
+beautifulsoup4>=4.12.0
+pydub>=0.25.1
+moviepy>=1.0.3
